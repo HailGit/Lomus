@@ -1,4 +1,3 @@
-# Lomus
 # problem
 • Difficulties and high costs of implementing marketing measures for all customers without prior knowledge.
 • The difficulty of identifying potential customers for services provided.
